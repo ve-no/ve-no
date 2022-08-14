@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Aelbakouri/Aelbakouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/Aelbakouri" align="center">
+    <div align="center">
+  <img height="230em" src="https://user-images.githubusercontent.com/95944107/184555272-24448088-6509-42a6-ac14-428c12eb25fb.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbakouri&theme=buefy&layout=compact" />
+  </div>
+</a>
+
+<br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/allal-el-bakouri-ba3565205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ALLAL%20EL%20BAKOURI-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/elbakouri_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-elbakouri__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:allal.elbakourii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-allal.elbakourii@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
