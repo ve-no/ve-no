@@ -3,13 +3,13 @@
 
 <a href="https://github.com/Aelbakouri" align="center">
     <div align="center">
-  <img height="230em" src="https://user-images.githubusercontent.com/95944107/184555272-24448088-6509-42a6-ac14-428c12eb25fb.png" />
+  <img height="230em" src="https://user-images.githubusercontent.com/95944107/184627966-5d5b338b-d749-4e32-84f7-8aa03ea5b7c1.png" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbakouri&theme=buefy&layout=compact" />
   </div>
 </a>
 
-<br/>
+<br/> 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/allal-el-bakouri-ba3565205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ALLAL%20EL%20BAKOURI-blue?style=flat-square&logo=linkedin"></a>
