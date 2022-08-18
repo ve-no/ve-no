@@ -10,7 +10,7 @@
 </a>
 
 <br/> 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with  Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/allal-el-bakouri-ba3565205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ALLAL%20EL%20BAKOURI-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/elbakouri_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-elbakouri__-blue?style=flat-square&logo=instagram"></a>
