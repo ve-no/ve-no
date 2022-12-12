@@ -4,14 +4,6 @@
 <a href="https://github.com/Aelbakouri" align="center">
     <div align="center">
   <img height="230em" src="https://user-images.githubusercontent.com/95944107/184627966-5d5b338b-d749-4e32-84f7-8aa03ea5b7c1.png" />
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-  
   </div>
 </a>
 
