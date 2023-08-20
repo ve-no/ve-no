@@ -9,7 +9,9 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ve-no&theme=ayu-mirage)](https://github.com/Ayg0/github-readme-stats)
 -->
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ve-no&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <br/> 
